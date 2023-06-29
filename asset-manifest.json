@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Football-Card/static/css/main.d9cf4f3a.css",
+    "main.js": "/Football-Card/static/js/main.5f6d1f83.js",
+    "static/media/tom_brady 1.png": "/Football-Card/static/media/tom_brady 1.a9159a27c9be759cc066.png",
+    "index.html": "/Football-Card/index.html",
+    "main.d9cf4f3a.css.map": "/Football-Card/static/css/main.d9cf4f3a.css.map",
+    "main.5f6d1f83.js.map": "/Football-Card/static/js/main.5f6d1f83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9cf4f3a.css",
+    "static/js/main.5f6d1f83.js"
+  ]
+}
